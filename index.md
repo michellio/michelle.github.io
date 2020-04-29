@@ -1,18 +1,33 @@
-## Portfolio
+## Spring 2020 Portfolio
 
 ---
 
-### Category Name 1 
+### Project Challenges 
 
-[Project 1 Title](/sample_page)
+[PC01 - GRAFFITI](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[PC02 - ANIMATING WITH TURTLES](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[PC03 - GENERATIVE ART](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[PC05 - SIMPLE CLICK GAME](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[PC09 - SOUNDWAVE](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
+[PC10 - CORONAVIRUS API](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
