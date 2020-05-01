@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Portfolio Extra Credit
   <br><br>
-  <a href="https://www.linkedin.com/in/michelletran03/">View My LinkedIn Profile</a> 
-  Link to GitHub Portfolio Site
+  <a href="https://www.linkedin.com/in/michelletran03/">View My LinkedIn Profile</a>
   <br><br>
    <a href="https://github.com/michellio/portfolio2020">View My Portfolio</a> 
 theme: jekyll-theme-minimal
