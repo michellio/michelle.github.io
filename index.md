@@ -34,12 +34,12 @@
 
 ### Links to Projects!!
 
-- [PC01](http://example.com/)
-- [PC02](http://example.com/)
-- [PC03](http://example.com/)
-- [PC05](http://example.com/)
-- [PC09](http://example.com/)
-- [PC10](http://example.com/)
+- [PC01](https://github.com/michellio/portfolio2020/tree/master/PC01)
+- [PC02](https://github.com/michellio/portfolio2020/tree/master/PC02)
+- [PC03](https://github.com/michellio/portfolio2020/tree/master/PC03)
+- [PC05](https://github.com/michellio/portfolio2020/tree/master/PC05)
+- [PC09](https://github.com/michellio/portfolio2020/tree/master/PC09)
+- [PC10](https://github.com/michellio/portfolio2020/tree/master/PC10)
 
 ---
 
