@@ -9,36 +9,37 @@
 
 ---
 [PC02 - ANIMATING WITH TURTLES](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PC02.png?raw=true"/>
 
 ---
 [PC03 - GENERATIVE ART](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PC03.png?raw=true"/>
 
 ---
 [PC05 - SIMPLE CLICK GAME](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PC05.png?raw=true"/>
 
 ---
 
 [PC09 - SOUNDWAVE](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PC09.png?raw=true"/>
 
 ---
 
 
 [PC10 - CORONAVIRUS API](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PC10.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Links to Projects!!
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [PC01](http://example.com/)
+- [PC02](http://example.com/)
+- [PC03](http://example.com/)
+- [PC05](http://example.com/)
+- [PC09](http://example.com/)
+- [PC10](http://example.com/)
 
 ---
 
