@@ -4,7 +4,7 @@
 
 ### Project Challenges 
 
-[PC01 - GRAFFITI](/sample_page)
+[PC01 - GRAFFITI](/https://github.com/michellio/portfolio2020/tree/master/PC01)
 <img src="images/PC01.png?raw=true"/>
 
 ---
